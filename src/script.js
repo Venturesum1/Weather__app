@@ -107,7 +107,7 @@ document
     }
   });
 
-weather.fetchWeather("Manipal");
+weather.fetchWeather("Kolkata");
 
 document
   .querySelector(".search-bar")
